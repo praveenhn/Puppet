@@ -1,2 +1,2 @@
-# Puppet1
+# Puppet
 Puppet modules
