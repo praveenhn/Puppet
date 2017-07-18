@@ -1,4 +1,4 @@
-Class lamp
+class lamp
 
 {
 
